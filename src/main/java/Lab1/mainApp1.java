@@ -9,6 +9,7 @@ public class mainApp1 {
         System.out.println("1 + 1= "+2);
         System.out.println("1 + 2= "+3);
         System.out.println("1 + 3= "+4);
+        System.out.println("1 + 4= "+5);
         System.out.println(b+" to power "+n+" = "+ myLibrary.Power(b,n));
         System.out.println(n+"! = " + myLibrary.factorial(n));
         System.out.println("Program ..Ended ...");
